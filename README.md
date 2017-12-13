@@ -8,4 +8,13 @@
 ## 项目结构
 
 - ### 开发配置
-    - eslint
+    - eslint 全局安装 `eslint`
+    ```
+    npm i eslint -g
+    npm i eslint-plugin-react -g
+    npm i babel-eslint -g
+    ```
+    - webpack 全局安装 `webpack`
+    ```
+    npm i webpack -g 
+    ```
