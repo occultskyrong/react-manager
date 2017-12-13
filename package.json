@@ -8,12 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/occultskyrong/react-manager.git"
+    "url": "https://github.com/occultskyrong/react-manager.git"
   },
   "author": "occultskyrong",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/occultskyrong/react-manager/issues"
   },
-  "homepage": "https://github.com/occultskyrong/react-manager#readme"
+  "homepage": "https://github.com/occultskyrong/react-manager#readme",
+  "devDependencies": {
+    "babel-eslint": "^8.0.3",
+    "eslint-plugin-react": "^7.5.1"
+  }
 }
